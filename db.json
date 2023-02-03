@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "name": "Harsh kumar",
+      "age": "18",
+      "gender": "male",
+      "country": "india",
+      "profession": "employed",
+      "url": "http://localhost:8080/users",
+      "id": 1
+    },
+    {
+      "name": "Happy",
+      "age": "21",
+      "gender": "",
+      "country": "india",
+      "profession": "student",
+      "id": 2
+    }
+  ]
+}
