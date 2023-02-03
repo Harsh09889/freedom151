@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
-import { login } from "../../Redux/Auth/AuthActions";
+import { login } from "../../Redux/Auth/authActions";
 
 const Login = () => {
 	const [loginState, setLoginState] = useState({
